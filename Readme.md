@@ -1,0 +1,1 @@
+Basic next.js app
